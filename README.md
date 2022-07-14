@@ -25,12 +25,12 @@ We were able to import the data into Pandas DataFrames, merge the Dataframes and
 
 -------------------------------
 
-- ### Total Rides 
+- ## Total Rides 
 -   Rural        125
 -   Suburban     625
 -   Urban       1625
 
-- ### Total Driver
+- ## Total Driver
 -   Rural         78
 -   Suburban     490
 -   Urban       2405
