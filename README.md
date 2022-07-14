@@ -40,4 +40,4 @@ Urban       2405
 ![Pyber Total Fare](https://github.com/Sacdees/pyber_analysis/blob/main/resources/PyBer_fare_summary.png)
 
 # Summary 
-As the data in the charts demonstrates, the Urban city type fares are much greater on average the other two city types, with Suburban and Rural following respectively. The results would indicate that there is more consumable income with less drivers in the Rural areas per driver, however there are more rides taken in Urban areas - perhaps on shorter trips resulting in a lower per driver average but with a result of the larger fare gross.  
+As the data in the charts demonstrates, the Urban city type fares are much greater on average the other two city types, with Suburban and Rural following respectively. The results would indicate that there is more consumable income with less drivers in the Rural areas per driver, however there are more rides taken in Urban areas - perhaps on shorter trips resulting in a lower per driver average but with a result of the larger fare gross.  Overall the Suburban market is evenly placed between the other two segements in terms of all data presented.  
