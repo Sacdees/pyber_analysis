@@ -9,31 +9,31 @@ In this analysis we were obligated to use Jupyter Notebook and Pandas to inspect
 We were able to import the data into Pandas DataFrames, merge the Dataframes and create a chart that showcases the average fare by city type over a period of four months along with average fare data to compile a comprehensive report by each city type:
 
 - ## Total Amount of Fares 
--Rural           $4327.93
--Suburban        $19356.33
--Urban           $39854.38
+-   Rural           $4327.93
+-   Suburban        $19356.33
+-   Urban           $39854.38
 
 - ## Average Fare per Ride
--Rural           $34.62
--Suburban        $30.97
--Urban           $24.53
+-   Rural           $34.62
+-   Suburban        $30.97
+-   Urban           $24.53
 
 - ## Average Fare per Driver
--Rural           $55.49
--Suburban        $39.50
--Urban           $16.57
+-   Rural           $55.49
+-   Suburban        $39.50
+-   Urban           $16.57
 
 -------------------------------
 
 - ### Total Rides 
--Rural        125
--Suburban     625
--Urban       1625
+-   Rural        125
+-   Suburban     625
+-   Urban       1625
 
 - ### Total Driver
--Rural         78
--Suburban     490
--Urban       2405
+-   Rural         78
+-   Suburban     490
+-   Urban       2405
 
 -------------------------------
 
