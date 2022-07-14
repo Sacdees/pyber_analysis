@@ -1,25 +1,16 @@
-# pyber_analysis
+# Overview of Analysis 
+## pyber_analysis
 
-One of the questions V. Isualize is famous for asking during these presentations is about the exploratory part of the analytical process. In other words, when you have a new dataset, what is your process in determining relationships between variables in the data? Or what type of data do you have to work with? And are there any outliers or patterns in the data?
-
-his critical, exploratory data analytic step can save roughly 15–50% of your time on a project because it provides a targeted plan for how to clean, sort, and create smaller datasets. It's not something a savvy analyst will skip. And of course you want V. Isualize to immediately recognize you as a savvy analyst!
+In this anaylyis we were obligated to use Juypter Notebook and Pandas to inspect data and to merge data sets in order to perform calculations, create new data series and frames for the city types, driver and all other relevant data from the csv files devlivered for analysis.  Using Matplotbib we were able to produce the quality figures and visual data to meet the needs of V. Isualize. With the new position we have started out with small data sets and been able to explore and analyize date by combinging the data set to a more manageble format to make executive data drive descisions for Pyber and Omar. 
 
 
-Up to this point, you've been working with a small dataset, but soon you'll be analyzing large datasets that will be read into a DataFrame. Since you're getting to be an expert at creating visuals, Omar is going to show you how to plot data from a DataFrame just by referencing the data columns.
+# Results
+We were able to import the data into Pandas DataFrames, merge the dataframes and create a chart that showcases the average fare by city type over a period of four months  
 
-Import your data into a Pandas DataFrame.
-Merge your DataFrames.
-Create a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban, suburban, and rural.
-Determine the mean, median, and mode for the following:
-The total number of rides for each city type.
-The average fares for each city type.
-The total number of drivers for each city type.
-Create box-and-whisker plots that visualize each of the following to determine if there are any outliers:
-The number of rides for each city type.
-The fares for each city type.
-The number of drivers for each city type.
-Create a pie chart that visualizes each of the following data for each city type:
-The percent of total fares.
-The percent of total rides.
-The percent of total drivers.
-Omar has approved the project scope. It's time to get to work!
+
+
+
+
+![Pyber Total Fare](https://github.com/Sacdees/pyber_analysis/blob/main/resources/PyBer_fare_summary.png)
+
+# Summary 
